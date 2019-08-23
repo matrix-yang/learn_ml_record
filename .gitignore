@@ -5,7 +5,7 @@
 *.gif
 *.jpeg
 .ipynb_checkpoints
-./pytorch/data/*
+./pytorch/data
 ./pytorch/hymenoptera_data/*
 ./pytorch/faces/*
 .idea/*
